@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Thimoté</h1>
-<h3 align="center">Développeur de 21ans</h3>
+<h3 align="center">Développeur de 21 ans</h3>
 
 <!-- <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ThimoteB&style=for-the-badge&color=9b59b6" alt="ThimoteB" />
