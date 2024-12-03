@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Thimoté</h1>
+<h1 align="center">Salut 👋, je m'appelle Thimoté</h1>
 <h3 align="center">Développeur de 21 ans</h3>
 
 <!-- <div align="center">
