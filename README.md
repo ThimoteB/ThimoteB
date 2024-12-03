@@ -11,7 +11,7 @@
 
 - 🌱 J'apprends actuellement **Rust** pour découvrir de nouveaux concepts.
 
-- 💬 Surement en train d'écouter de la musique
+- 💬 Sûrement en train d'écouter de la musique
 
 ### Langages
 
