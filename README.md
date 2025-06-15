@@ -8,20 +8,20 @@
 ## À propos de moi :
 
 - 🎓 3ème année de BUT Informatique.
-
 - 🌱 J'apprends actuellement **Rust** pour découvrir de nouveaux concepts.
-
 - 💬 Sûrement en train d'écouter de la musique
 
 ### Langages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cs,rust,ocaml"  style="padding:10px"/>
 
-</td><td valign="top" width="33%">
-
 ### Outils et Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,raspberrypi"  style="padding:10px"/> </div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,raspberrypi"  style="padding:10px"/>
+
+## 🌐 Portfolio
+
+→ [https://thimoteb.github.io](https://thimoteb.github.io)
 
 ## 📫 Me contacter :
 
