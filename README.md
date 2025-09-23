@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Thimoté</h1>
-<h3 align="center">Développeur de 21 ans</h3>
+<h3 align="center">Développeur de 22 ans</h3>
 
 <!-- <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ThimoteB&style=for-the-badge&color=9b59b6" alt="ThimoteB" />
@@ -7,7 +7,7 @@
 
 ## À propos de moi :
 
-- 🎓 3ème année de BUT Informatique.
+- 🎓 1ère année d'école d'ingénieur à l'ENSIIE.
 - 🌱 J'apprends actuellement **Rust** pour découvrir de nouveaux concepts.
 - 💬 Sûrement en train d'écouter de la musique
 
