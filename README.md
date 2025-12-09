@@ -6,8 +6,10 @@
 
 <img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=31qgjtrom2zokhmfjblacldzogqu">
 
-- 🎓 First-year student at **ENSIIE** (Computer Science & Engineering School)
-- 💼 Working student at **Bouygues Telecom**
+- 🎓 First-year student at **ENSIIE** (Engineering School specialized in Computer Science)
+- 💼 Software Engineer Apprentice at **Bouygues Telecom** (Cloud, DevOps & Backend)
+- 🔧 Passionate about backend development, distributed systems, and CI/CD
+- 📚 Love reading novels and manhua in my free time
 - 🎵 Probably listening to music right now
 
 <br clear="right"/>
