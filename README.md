@@ -4,11 +4,11 @@
 
 ## About Me
 
+<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=31qgjtrom2zokhmfjblacldzogqu">
+
 - 🎓 First-year student at **ENSIIE** (Computer Science & Engineering School)
 - 💼 Working student at **Bouygues Telecom**
 - 🎵 Probably listening to music right now
-
-<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=31qgjtrom2zokhmfjblacldzogqu">
 
 <br clear="right"/>
 
@@ -39,13 +39,6 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThimoteB&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-
-<p align="center">
-   <a href="https://github.com/ThimoteB"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThimoteB&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
-</p>
-
 <br>
 
 <h2 align="center">💻 Check out my repositories below ⬇️</h2>
