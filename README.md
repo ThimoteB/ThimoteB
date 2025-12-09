@@ -1,29 +1,30 @@
-<h1 align="center">Salut 👋, je m'appelle Thimoté</h1>
-<h3 align="center">Développeur de 22 ans</h3>
+<h1 align="center">Hi 👋, I'm Thimoté</h1>
+<h3 align="center">Software Engineering Student & Developer</h3>
 
-<!-- <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ThimoteB&style=for-the-badge&color=9b59b6" alt="ThimoteB" />
-</div> -->
 
-## À propos de moi :
+## About Me
 
-- 🎓 1ère année d'école d'ingénieur à l'ENSIIE.
-- 🌱 J'apprends actuellement **Rust** pour découvrir de nouveaux concepts.
-- 💬 Sûrement en train d'écouter de la musique
+- 🎓 First-year student at **ENSIIE** (Computer Science & Engineering School)
+- 💼 Working student at **Bouygues Telecom**
+- 🎵 Probably listening to music right now
 
-### Langages
+<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=31qgjtrom2zokhmfjblacldzogqu">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cs,rust,ocaml"  style="padding:10px"/>
+<br clear="right"/>
 
-### Outils et Technologies
+### Languages
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,raspberrypi"  style="padding:10px"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cs" style="padding:10px"/>
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,raspberrypi,terraform,ansible," style="padding:10px"/>
 
 ## 🌐 Portfolio
 
 → [https://thimoteb.github.io](https://thimoteb.github.io)
 
-## 📫 Me contacter :
+## 📫 Contact Me
 
 <div align="left">
     <a href="https://www.linkedin.com/in/thimotebois/" target="_blank"><img src="https://img.shields.io/badge/-Thimoté%20Bois-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -31,7 +32,7 @@
     <a href="https://github.com/ThimoteB" target="_blank"><img src="https://img.shields.io/badge/-ThimoteB-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </div>
 
-## Stats GitHub :
+## GitHub Stats
 
 <p align="center">
     <a href="https://github.com/ThimoteB">
@@ -47,4 +48,4 @@
 
 <br>
 
-<h2 align="center">💻 Jetez un coup d'œil à mes répos⬇️ </h2>
+<h2 align="center">💻 Check out my repositories below ⬇️</h2>
