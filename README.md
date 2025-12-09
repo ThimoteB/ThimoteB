@@ -22,9 +22,9 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,raspberrypi,terraform,ansible," style="padding:10px"/>
 
-## 🌐 Portfolio
+// ## 🌐 Portfolio
 
-→ [https://thimoteb.github.io](https://thimoteb.github.io)
+// → [https://thimoteb.github.io](https://thimoteb.github.io)
 
 ## 📫 Contact Me
 
